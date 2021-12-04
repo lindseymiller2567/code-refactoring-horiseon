@@ -16,4 +16,4 @@ Code provided by University of Wisconsin Coding Boot Camp
 Code refactored by Lindsey Dubnicka
 
 ## Screen Shot of Horiseon web page
-![ScreenShot](./Develop/assets/images/HorseonPageScreenshot.png)
+![ScreenShot](./assets/images/HorseonPageScreenshot.png)
